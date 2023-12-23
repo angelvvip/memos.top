@@ -325,7 +325,7 @@ font-size: small;
 
 .images-wrapper {
     margin-top: 0.5rem;
-    display: grid;
+/*     display: grid; */
     width: 100%;
     grid-template-columns: repeat(2,minmax(0,1fr));
     gap: 0.5rem;
